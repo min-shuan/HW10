@@ -96,3 +96,11 @@
 - Created: six Evidence Cards under `evidence/`
 - Programmatic check: PASS
 - Known boundaries: classification comparison and metric formulas require extra sources if taught in depth.
+
+## Teaching Outline v1
+- Stage: Teaching Point Extraction / Teaching Structure Check
+- Input: 6 Evidence Cards + current Wiki
+- Output: `slides/outline-v1.md`
+- Check: `checks/teaching-structure-check-v1.md`
+- Result: PASS
+- Notes: 13-page beginner-oriented teaching sequence; known evidence boundaries preserved.
