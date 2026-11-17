@@ -114,3 +114,21 @@
 - Unsupported factual claims in final draft: 0
 - Revisions during drafting: dataset difficulty wording, DINOv2 role, low-shot protocol separation, metric formula boundary
 - Next step: HTML generation → rendering/programmatic checks → independent AI review
+
+---
+
+## HTML Slide Generation and Final Review v1
+
+- Input: grounded 13-page drafts (`slides/page-drafts-v1.md`)
+- Output: `slides/index.html`
+- Slide count: 13
+- Rendering check: PASS
+- Programmatic check: PASS
+- Independent AI review: PASS
+- Blocking issues found: 0
+- Review artifacts:
+  - `checks/html-render-programmatic-check-v1.md`
+  - `checks/independent-ai-review-v1.md`
+  - `slides/render-check.pdf`
+  - `slides/render-check-montage.png`
+- Status: ready for final delivery / publishing
