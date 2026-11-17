@@ -104,3 +104,13 @@
 - Check: `checks/teaching-structure-check-v1.md`
 - Result: PASS
 - Notes: 13-page beginner-oriented teaching sequence; known evidence boundaries preserved.
+
+## 2026-11-17 — Per-page Drafting + Grounding Check v1
+- Input: `slides/outline-v1.md`, six approved Evidence Cards, existing Wiki entries
+- Created: `slides/page-drafts-v1.md`
+- Created: `checks/grounding-check-v1.md`
+- Slides drafted: 13
+- Grounding result: PASS
+- Unsupported factual claims in final draft: 0
+- Revisions during drafting: dataset difficulty wording, DINOv2 role, low-shot protocol separation, metric formula boundary
+- Next step: HTML generation → rendering/programmatic checks → independent AI review
